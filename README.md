@@ -2,6 +2,11 @@
 
 <details open><summary>With icons</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img>
 
+<tr>
+        <td  align="center">
+        <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
+</tr>
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
@@ -112,7 +117,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       </td>
   </tr>
   <tr>
-    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers over last weeks</a></th>
+    <th><a href="source/plugins/gazers/README.md">✨ Stargazers over last weeks</a></th>
     <th><a href="source/plugins/projects/README.md">🗂️ Active projects</a></th>
   </tr>
   <tr>
