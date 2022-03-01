@@ -1,5 +1,7 @@
 ![Metrics](/github-metrics.svg)
 
+<details open><summary>With icons</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img>
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
