@@ -1,16 +1,3 @@
-![Metrics](/github-metrics.svg)
-
-<details open><summary>With icons</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img>
-
-<tr>
-        <td  align="center">
-        <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
-</tr>
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 # 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-github-metrics)
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
@@ -117,7 +104,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       </td>
   </tr>
   <tr>
-    <th><a href="source/plugins/gazers/README.md">✨ Stargazers over last weeks</a></th>
+    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers over last weeks</a></th>
     <th><a href="source/plugins/projects/README.md">🗂️ Active projects</a></th>
   </tr>
   <tr>
